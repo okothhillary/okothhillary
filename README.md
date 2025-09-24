@@ -2,7 +2,7 @@
 
 Hello, 
 
-I'm Hillary Okoth, a student at Brigham Young University–Idaho studying **Software Development**.  
+I'm Hillary Okoth.  
 I’m passionate about **full-stack web development, .NET technologies, and building scalable applications**.  
 Welcome to my GitHub profile! 🚀  
 
