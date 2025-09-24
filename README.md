@@ -8,7 +8,7 @@ Welcome to my GitHub profile! 🚀
 
 ## About Me  
 
-- 🌱 I'm currently learning **.NET, MERN stack, and cloud deployment**.  
+- 🌱 I build software using the **.NET, MERN stack, and Azure for cloud deployment**.  
 - 🎯 My goals are to become a skilled **software engineer**, build impactful SaaS products, and create secure, user-friendly systems.  
 - 💬 Ask me about **C#, Python, MongoDB, full-stack development, and software project planning**.  
 
